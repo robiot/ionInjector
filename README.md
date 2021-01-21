@@ -18,3 +18,4 @@ Simple DLL Injector for both x64 and x86
      <img src="https://cdn.discordapp.com/attachments/773559872884965446/801874416313040896/unknown.png" alt="Picture">
     
     * Press **Start**
+    * *if there is no x64 option, press project, ionInjector Properties, Build, Change "Any CPU" to x64
